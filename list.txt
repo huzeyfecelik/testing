@@ -1,0 +1,9 @@
+pklvols,lv;d
+sdvok,slv
+sdv,sd;lv,d
+dl,vsl;dcm,sd;lc
+cmsdlcmsdcmkl
+ockmsd;mcklsd
+lds;cmskldmclk
+cs;ldmcksdmc
+d,sc;lds,cs;d
